@@ -10,6 +10,6 @@ Sesión a cargo de [Sara Acevedo](https://saryace.github.io/).
 ## ¿Tu código demora tres días en ejecutarse? ¡Es hora de paralelizar! (05/04)
 Sesión a cargo de [Steph Orellana](https://sporella.xyz/).
 
-📂 repositorio
+📂 [repositorio](https://github.com/sporella/paralelo)
 
 📹 grabación

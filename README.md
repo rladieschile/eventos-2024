@@ -12,4 +12,4 @@ Sesión a cargo de [Steph Orellana](https://sporella.xyz/).
 
 📂 [repositorio](https://github.com/sporella/paralelo)
 
-📹 grabación
+📹 [grabación](https://www.dropbox.com/s/67u6kwpsi91oyky/2024_abril_paralelizar.mp4?dl=0)

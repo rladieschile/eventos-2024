@@ -2,6 +2,11 @@
 
 (ordenados desde el más reciente)
 
+## Cómo preparar tu propuesta de presentación para LatinR 2024 (01/08)
+Sesión a cargo de [Riva Quiroga](https://rivaquiroga.cl/)
+
+📹 [grabación](https://www.dropbox.com/scl/fi/rvj1vxhregurmaq33f8pe/2024_agosto_preparar-presentacion-latinr.mp4?rlkey=phqyeaj9rij49vu9pj75afrjf&st=scmhfnr6&dl=0)
+
 ## Taller de familiarización con R/RStudio (31/05)
 Sesión a cargo de [Tatiana Canales](https://www.linkedin.com/in/tcanaleso/).
 
